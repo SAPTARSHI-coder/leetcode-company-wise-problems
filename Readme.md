@@ -1,9 +1,6 @@
-# Company-Wise LeetCode Problems
+## Leetcode Company wise Problems Lists
 
-Company-tagged problem lists organized for focused interview practice.
+- Curated lists of Leetcode questions group by companies, updated as of 1 June 2025.
+- Each company folder consists of questions from the past 30, 60, 90 days and all time questions wherever available.
 
-## Organization
-
-Each company has its own folder. Where available, lists are grouped by recent time windows and all-time questions, with source data stored as CSV files.
-
-The lists reflect company tags and data available in the repository; verify problem availability and tags on LeetCode before relying on them.
+- System Design Notes: https://github.com/liquidslr/system-design-notes
